@@ -1,0 +1,37 @@
+
+z
+java:S1319%"dThe type of "headers" should be an interface such as "Map" rather than the implementation "HashMap".(«ãõ€
+z
+java:S1319H"dThe type of "headers" should be an interface such as "Map" rather than the implementation "HashMap".(«ãõ€
+„
+java:S1319±"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".( Ñ‚Õ
+„
+java:S1319¶"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¶ò¦˜
+{
+java:S1319»"_The type of "p0" should be an interface such as "Map" rather than the implementation "HashMap".(Œè¨½şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÆÒÿÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š»³ ùÿÿÿÿ
+œ
+java:S1186X"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Öõ¬¦øÿÿÿÿ
+œ
+java:S1186f"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§ş‹ùÿÿÿÿ
+œ
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÌÕ¬éıÿÿÿÿ
+˜
+java:S1186‚"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©şÍ‡
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ÔéÔÿÿÿÿÿ
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ°™ûÿÿÿÿ
+
+java:S1186¬"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€òˆÅüÿÿÿÿ
+˜
+java:S1186º"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù¢Æ¼
+˜
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µİ¾
+¤
+java:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Õˆ°éùÿÿÿÿ8­ñå˜á0
+W	java:S107@"BConstructor has 10 parameters, which is greater than 7 authorized.(Ô… 
+2
+java:S22259"Return empty string instead.(¥¹ï

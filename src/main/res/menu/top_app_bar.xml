@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MenuExampleActivity">
+
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="1"
+        android:title="@string/cave_app_bar_menu_refresh"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/version"
+        android:orderInCategory="2"
+        android:title="@string/cave_app_bar_menu_version"
+        app:showAsAction="never" />
+
+</menu>

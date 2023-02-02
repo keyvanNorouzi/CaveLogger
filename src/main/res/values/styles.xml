@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CaveTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:itemTextAppearance">@style/AppTheme.ItemTextStyle</item>
+    </style>
+
+    <style name="AppTheme.ItemTextStyle" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

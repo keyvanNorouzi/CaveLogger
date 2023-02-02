@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cave_app_bar_menu_refresh">Refresh</string>
+    <string name="cave_app_bar_menu_delete_all">Delete All</string>
+    <string name="cave_app_bar_menu_version">Version</string>
+</resources>
