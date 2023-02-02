@@ -14,7 +14,7 @@ First add jitpack.io in your gradle
 After that add CaveLogger Library
   
 2. dependencies {
-	        implementation 'com.github.keyvanNorouzi:CaveLogger:Tag'
+	        implementation 'com.github.keyvanNorouzi:CaveLogger:alpha01'
 	}
 
 
